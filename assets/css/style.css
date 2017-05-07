@@ -1,0 +1,66 @@
+body {
+    line-height: 40px;
+    background-position: center;
+    color: black;
+    width: 100%;
+    padding: 0px;
+    margin: auto 0;
+    
+}
+
+}
+
+td {
+    font-size: 13px ;
+    font-weight: 80 ;
+}
+
+label {
+    font-size: 14px;
+}
+
+button{
+    border-color: black ;
+}
+
+
+}
+
+.jumbotron {
+    width: 100%;
+    background: rgb(105, 105, 105);
+    border: 1px black;
+    top:15px;
+}
+
+.panel-primary, input {
+    background-color: rgba(0,0,0,.5);
+    border-color: black ;
+    width: 100%;
+}
+
+.panel-primary{
+    min-height: 300px;
+}
+
+.panel-heading {
+    
+    font-size: 20px;
+    background: rgb(105, 105, 105);
+       
+       
+}
+
+.panel-title, th, h2 {
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.panel-body, .panel-heading {
+    padding: 7px ;
+}
+
+.milTime {
+    font-size: 11px ;
+    line-height: 0px ;
+}
+
